@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jdeferred:jdeferred-android-aar:1.2.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jdeferred-android-aar-1.2.6.aar/68db9fa01cf1d20e6977d11888824893/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jdeferred-android-aar-1.2.6.aar/68db9fa01cf1d20e6977d11888824893/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

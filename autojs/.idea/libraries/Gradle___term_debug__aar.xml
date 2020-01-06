@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :term-debug:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/term-debug.aar/03d1e2ab52a63c82e21411f3d02cd854/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/term-debug.aar/03d1e2ab52a63c82e21411f3d02cd854/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

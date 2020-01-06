@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twofortyfouram:android-plugin-client-sdk-for-locale:4.0.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-android-plugin-client-sdk-for-locale-4.0.3.aar/1ff062e9f57ab28450441737fbc9d55b/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-android-plugin-client-sdk-for-locale-4.0.3.aar/1ff062e9f57ab28450441737fbc9d55b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-android-plugin-client-sdk-for-locale-4.0.3.aar/1ff062e9f57ab28450441737fbc9d55b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twofortyfouram/android-plugin-client-sdk-for-locale/4.0.3/db910761e8d6757d73a3a224dd4fe0f8ba69f0b9/android-plugin-client-sdk-for-locale-4.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

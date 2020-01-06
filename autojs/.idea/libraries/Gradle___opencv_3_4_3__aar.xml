@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :opencv-3.4.3:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opencv-3.4.3.aar/0eb8671a86f63b5de858b2b5a3563dee/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opencv-3.4.3.aar/0eb8671a86f63b5de858b2b5a3563dee/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

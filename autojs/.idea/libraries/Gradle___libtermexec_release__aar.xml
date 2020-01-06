@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :libtermexec-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-libtermexec-release.aar/99becbb2593cbb1f624a59d6d5705dad/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-libtermexec-release.aar/99becbb2593cbb1f624a59d6d5705dad/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
